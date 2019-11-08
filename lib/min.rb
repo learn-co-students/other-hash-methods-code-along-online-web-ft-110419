@@ -11,5 +11,5 @@ require 'pry'
 def get_the_min(groceries)
   foods_array = groceries.values.flatten
   foods_array.min
-  #code your solution here!
 end
+
